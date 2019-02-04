@@ -1,7 +1,6 @@
 @tailwind preflight;
 @tailwind components;
 @tailwind utilities;
-@tailwind screens;
 
 
 .page-wrapper {
@@ -21,7 +20,7 @@
 }
 
 .footer-wrapper {
-    @apply border-t px-8 py-4 border-smoke;
+    @apply border-t px-8 py-4;
 }
 
 .footer-content {
