@@ -2,7 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-
 .page-wrapper {
     @apply min-h-screen;
 }

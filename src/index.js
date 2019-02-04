@@ -3,11 +3,11 @@ import ReactDOM from "react-dom";
 import Hello from "./hello";
 import Header from "./header";
 import Footer from "./footer";
-import './css/tailwind.css';
+import "./css/tailwind.css";
 import {BrowserRouter} from "react-router-dom";
 import Projects from "./projects";
 import About from "./about";
-import {Switch, Route} from 'react-router-dom';
+import {Switch, Route} from "react-router-dom";
 
 const App = () => {
     return (
