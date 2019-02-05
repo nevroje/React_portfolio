@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .page-wrapper {
-    @apply min-h-screen;
+    @apply min-h-screen; background-color: #222;
 }
 
 .page-content {
@@ -11,7 +11,7 @@
 }
 
 .header {
-    @apply flex items-center justify-between flex-wrap bg-blue-darkest p-6;
+    @apply flex items-center justify-between flex-wrap p-6;
 }
 
 .header-title {
