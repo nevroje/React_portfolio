@@ -15,26 +15,21 @@ const App = () => {
         {
           city: 'Lorem',
           country: 'Lorem ipsum dolor sit amet.',
-          img: 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/paris.jpg',
         },
         {
           city: 'Lorem',
-          img: 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/singapore.jpg',
-        },
-        {
-          city: 'Lorem',
-          country: 'Lorem ipsum dolor sit amet.',
-          img: 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/prague.jpg',
         },
         {
           city: 'Lorem',
           country: 'Lorem ipsum dolor sit amet.',
-          img: 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/amsterdam.jpg',
         },
         {
           city: 'Lorem',
           country: 'Lorem ipsum dolor sit amet.',
-          img: 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/moscow.jpg',
+        },
+        {
+          city: 'Lorem',
+          country: 'Lorem ipsum dolor sit amet.',
         },
       ];
 
