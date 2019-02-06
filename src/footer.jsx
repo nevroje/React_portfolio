@@ -4,7 +4,7 @@ const Footer = () => {
     return (
         <div className="footer-wrapper">
             <div className="footer-content">
-                Made with React
+                Privacy Policy  Terms of Service
             </div>
         </div>
     )

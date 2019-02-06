@@ -13,28 +13,19 @@ import {Switch, Route} from "react-router-dom";
 const App = () => {
     const slides = [
         {
-          city: 'Lorem',
-          country: 'Lorem ipsum dolor sit amet.',
-          img: 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/paris.jpg',
+          city: '',
+          country: 'FizzBuzz in JavaScript',
+          img: 'https://anckor.cdn.prismic.io/anckor/cda974367bd7caffa2165b3805378d12167e9935_7-waves.jpg',
         },
         {
-          city: 'Lorem',
-          img: 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/singapore.jpg',
+          city: '',
+          country: 'Address-Book in JavaScript',
+          img: 'https://anckor.cdn.prismic.io/anckor/c413486a042000e79a6f0fb4b3e74ad381989be7_1-beach.jpg',
         },
         {
-          city: 'Lorem',
-          country: 'Lorem ipsum dolor sit amet.',
-          img: 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/prague.jpg',
-        },
-        {
-          city: 'Lorem',
-          country: 'Lorem ipsum dolor sit amet.',
-          img: 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/amsterdam.jpg',
-        },
-        {
-          city: 'Lorem',
-          country: 'Lorem ipsum dolor sit amet.',
-          img: 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/moscow.jpg',
+          city: '',
+          country: 'BMI-Calculator in JavaScript',
+          img: 'https://anckor.cdn.prismic.io/anckor/255231e801a040e2a4f72aaa69a1edea5bc9a152_13-work-session.jpg',
         },
       ];
 
