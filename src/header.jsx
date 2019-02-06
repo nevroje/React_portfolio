@@ -8,8 +8,8 @@ const Header = () => {
                 <Link className="text-white hover:text-grey" to='/'>Home</Link>
                  </h1>
              <ul className="list-reset flex">
-                 <li className="mr-6"><NavLink className="text-white hover:text-grey no-underline" activeStyle={{fontWeight: "bold"}} to='/about'>About Me</NavLink></li>
-                 <li className="mr-6"><NavLink className="text-white hover:text-grey no-underline" activeStyle={{fontWeight: "bold"}} to='/projects'>My Projects</NavLink></li>
+                 <li className="mr-6"><NavLink className="text-white hover:text-grey" activeStyle={{fontWeight: "bold"}} to='/about'>About Me</NavLink></li>
+                 <li className="mr-6"><NavLink className="text-white hover:text-grey" activeStyle={{fontWeight: "bold"}} to='/projects'>My Projects</NavLink></li>
             </ul>
         </nav>
     )

@@ -34,13 +34,17 @@ class Projects extends Component {
         }
 
         return (
-            <div>
+            <div className="cover-image">
                 <h1 className="content-text">My Projects</h1>
+                <br></br>
                 {projectsList}
-                <ul id="menu">              
+                <ul className="menu">          
                     <ul><a href="https://github.com/nevroje/address-book" target="_blank">Address-Book in JS</a></ul>
+                    <br></br>
                     <ul><a href="https://github.com/nevroje/fizzbuzz_js_joakim" target="_blank">FizzBuzz in JS</a></ul>
+                    <br></br>
                     <ul><a href="https://github.com/nevroje/2019-bmi-challenge" target="_blank">BMI Calculator in JS</a></ul>
+                    <br></br>
                     <p>More to come..</p>
             </ul>
             </div>

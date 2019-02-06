@@ -13,19 +13,29 @@ import {Switch, Route} from "react-router-dom";
 const App = () => {
     const slides = [
         {
-          city: '',
+          city: 'Project',
           country: 'FizzBuzz in JavaScript',
-          img: 'https://anckor.cdn.prismic.io/anckor/cda974367bd7caffa2165b3805378d12167e9935_7-waves.jpg',
+          img: 'https://anckor.cdn.prismic.io/anckor/c2dd9dec68360fec6156124e62f0f6e7041c8359_forest.jpg',
         },
         {
-          city: '',
+          city: 'Project',
           country: 'Address-Book in JavaScript',
           img: 'https://anckor.cdn.prismic.io/anckor/c413486a042000e79a6f0fb4b3e74ad381989be7_1-beach.jpg',
         },
         {
-          city: '',
+          city: 'Project',
           country: 'BMI-Calculator in JavaScript',
           img: 'https://anckor.cdn.prismic.io/anckor/255231e801a040e2a4f72aaa69a1edea5bc9a152_13-work-session.jpg',
+        },
+        {
+            city: 'Skills',
+            country: 'Ruby CSS JavaScript HTML5',
+            img: 'https://anckor.cdn.prismic.io/anckor/9ad25b1cf35d5689980979dde6ae35184890ad43_9-dark.jpg',
+        },
+        {
+            city: '',
+            country: '“Talk is cheap. Show me the code.” ― Linus Torvalds"',
+            img: 'https://anckor.cdn.prismic.io/anckor/ca738ba7ac0c5947226af3b0c3f58d374bba67a2_dsc00735.jpg',
         },
       ];
 

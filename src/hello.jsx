@@ -44,7 +44,7 @@ class CitiesSlider extends Component {
           const { activeSlide, prevSlide, sliderReady } = this.state;
           return (
             <div className={classNames('slider', { 's--ready': sliderReady })}>
-              <p className="slider__top-heading">Projects</p>
+              <p className="slider__top-heading">Welcome</p>
               <div className="slider__slides">
                 {this.props.slides.map((slide, index) => (
                   <div
@@ -56,7 +56,7 @@ class CitiesSlider extends Component {
                       <h2 className="slider__slide-heading">
                         {slide.city.split('').map(l => <span>{l}</span>)}
                       </h2>
-                      <p className="slider__slide-readmore"></p>
+                      <p className="slider__slide-readmore" href="/projects"></p>
                     </div>
                     <div className="slider__slide-parts">
                       {[...Array(this.IMAGE_PARTS).fill()].map((x, i) => (
