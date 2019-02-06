@@ -358,6 +358,7 @@
     right: 5px;
   }
   .bg-cover-image {
+      font-family: 'Raleway', sans-serif;
       font-size: 20px;
       min-height: 80%;
       min-width:1024px;
@@ -368,6 +369,7 @@
       background-image: url('https://anckor.cdn.prismic.io/anckor/8115f8b6e8a77fdd966e4ecdadcd410266164b05_8-black.jpg');
   }
   .cover-image {
+    font-family: 'Raleway', sans-serif;
     font-size: 20px;
     min-height: 80%;
     min-width:1024px;
