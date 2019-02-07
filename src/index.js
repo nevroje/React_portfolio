@@ -6,7 +6,7 @@ import Footer from "./footer";
 import "./css/tailwind.css";
 import "./css/sliders.css";
 import {BrowserRouter} from "react-router-dom";
-import Projects from "./projects";
+import Projects from './projects';
 import About from "./about";
 import {Switch, Route} from "react-router-dom";
 
