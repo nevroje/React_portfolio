@@ -45,6 +45,7 @@ class Projects extends Component {
                     <br></br>
                     <ul><a href="https://github.com/nevroje/2019-bmi-challenge" target="_blank">BMI Calculator in JS</a></ul>
                     <br></br>
+                    <ul><a href="https://github.com/nevroje/ATM_Challenge" target="_blank">ATM-challenge in Ruby</a></ul>
                     <p>More to come..</p>
             </ul>
             </div>

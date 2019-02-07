@@ -28,6 +28,11 @@ const App = () => {
           img: 'https://anckor.cdn.prismic.io/anckor/255231e801a040e2a4f72aaa69a1edea5bc9a152_13-work-session.jpg',
         },
         {
+            city: 'Project',
+            country: 'ATM-challenge in ruby',
+            img: 'https://anckor.cdn.prismic.io/anckor/8e8b1f4dd1f84cc6dbfa533692476a93f0d60d26_dsc00871.jpg',
+        },
+        {
             city: 'Skills',
             country: 'Ruby CSS JavaScript HTML5',
             img: 'https://anckor.cdn.prismic.io/anckor/9ad25b1cf35d5689980979dde6ae35184890ad43_9-dark.jpg',
