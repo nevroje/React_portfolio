@@ -54,7 +54,7 @@ class CitiesSlider extends Component {
           this.setState({ activeSlide, prevSlide });
         }
 ```
-## Build with
+## Built using
 - [REACT](https://reactjs.org/)
 - [TailwindCSS](https://tailwindcss.com/docs/what-is-tailwind/)
 
