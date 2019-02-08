@@ -8,7 +8,7 @@ class CitiesSlider extends Component {
           this.AUTOCHANGE_TIME = 4000;
           this.state = { activeSlide: -1, prevSlide: -1, sliderReady: false };
         }
-        
+
         componentWillUnmount() {
           window.clearTimeout(this.changeTO);
         }
