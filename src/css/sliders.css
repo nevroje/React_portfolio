@@ -382,7 +382,14 @@
 
   .menu {
     color: white;
+    margin-left: 0.5em;
+  }
+  .content-text {
+    margin-left: 0.5em;
   }
   a { 
     color: white;
+  }
+  h1 {
+    text-decoration: underline;
   }
