@@ -366,9 +366,11 @@
       height: 100%;
       position: center;
       background-size: contain;
-      background-image: url('https://anckor.cdn.prismic.io/anckor/8115f8b6e8a77fdd966e4ecdadcd410266164b05_8-black.jpg');
+      background-color: #222;
+      /* background-image: url('https://anckor.cdn.prismic.io/anckor/8115f8b6e8a77fdd966e4ecdadcd410266164b05_8-black.jpg'); */
   }
   .cover-image {
+    background-repeat: no-repeat;
     font-family: 'Varela Round', sans-serif;
     font-size: 20px;
     min-height: 80%;
@@ -376,8 +378,9 @@
     width: 100%;
     height: 100%;
     position: center;
-    background-size: contain;
-    background-image: url('https://anckor.cdn.prismic.io/anckor/8dde665afca2cb41929b426807e93ac2f3de75f0_4-quote.jpg');
+    background-size: cover;
+    background-color: #222;
+    /* background-image: url('https://anckor.cdn.prismic.io/anckor/8dde665afca2cb41929b426807e93ac2f3de75f0_4-quote.jpg'); */
   }
 
   .menu {
