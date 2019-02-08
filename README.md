@@ -11,7 +11,7 @@ Current WIP : "read more" link needs to be sorted out.
 npm run build
 ```
 
-## Code example of my slider class in React
+## Code example of the slider class in hello.jsx
 
 ```JavaScript
 class CitiesSlider extends Component {
