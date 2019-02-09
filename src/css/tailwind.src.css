@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .page-wrapper {
-    @apply min-h-screen; background-color: #585858;
+    @apply min-h-0;
 }
 
 .page-content {
@@ -42,7 +42,7 @@
   
   body {
     font-family: 'Varela Round', sans-serif;
-    background: #000;
+    background: #222;
   }
   
   .slider {

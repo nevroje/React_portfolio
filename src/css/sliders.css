@@ -6,7 +6,7 @@
   
   body {
     font-family: 'Varela Round', sans-serif;
-    background: #000;
+    background: #222;
     height: 100%;
   }
   
@@ -61,7 +61,10 @@
     height: 100%;
     text-transform: uppercase;
     line-height: 1;
-  }
+    max-width: 100%;
+    background-size: cover;
+    background-position: center;
+   }
   .slider__slide-subheading {
     margin-bottom: 20px;
     font-size: 24px;

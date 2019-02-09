@@ -6127,8 +6127,7 @@ table {
 }
 
 .page-wrapper {
-  min-height: 100vh;
-  background-color: #585858;
+  min-height: 0;
 }
 
 .page-content {
@@ -6189,7 +6188,7 @@ table {
 
 body {
   font-family: 'Varela Round', sans-serif;
-  background: #000;
+  background: #222;
 }
 
 .slider {

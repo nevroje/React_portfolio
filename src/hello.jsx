@@ -61,7 +61,7 @@ class CitiesSlider extends Component {
                     <div className="slider__slide-part-inner" style={{ backgroundImage: `url(${slide.img})` }} />
                       </div>
                     ))}
-                   </div>
+                  </div>
                 </div>
               ))}
             </div>
