@@ -41,6 +41,7 @@ class Cv extends Component {
             <div>
                 <h1 className="content-cv">My CV</h1>
                 {cvText}
+                <p>my cv details will go here</p>
             </div>
         )
     }
