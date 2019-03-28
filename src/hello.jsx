@@ -53,7 +53,6 @@ class CitiesSlider extends Component {
               <h2 className="slider__slide-heading">
             {slide.city.split('').map(l => <span>{l}</span>)}
           </h2>
-        <a href='/projects' className="slider__slide-readmore">Read more</a>
            </div>
              <div className="slider__slide-parts">
                {[...Array(this.IMAGE_PARTS).fill()].map((x, i) => (

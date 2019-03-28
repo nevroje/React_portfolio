@@ -1,6 +1,7 @@
 import React, { Component } from "react"
 import axios from "axios"
 
+//WIP COMPONENT
 
 class Cv extends Component {
 
