@@ -34,7 +34,7 @@ const App = () => {
         },
         {
             city: 'Skills',
-            country: 'Ruby CSS JavaScript HTML5',
+            country: 'React, Ruby on Rails, CSS, JavaScript, HTML5, React-native, Ansible, Various css frameworks, AWS',
             img: 'https://anckor.cdn.prismic.io/anckor/9ad25b1cf35d5689980979dde6ae35184890ad43_9-dark.jpg',
         },
         {
