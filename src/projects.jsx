@@ -39,13 +39,11 @@ class Projects extends Component {
                 <br></br>
                 {projectsList}
                 <ul className="menu">       
-                    <ul><a href="https://github.com/nevroje/address-book" target="_blank">Address-Book in JS</a></ul>
+                    <ul><a href="https://github.com/nevroje/Django-Portfolio" target="_blank">Django Portfolio</a></ul>
                     <br></br>
-                    <ul><a href="https://github.com/nevroje/fizzbuzz_js_joakim" target="_blank">FizzBuzz in JS</a></ul>
+                    <ul><a href="https://github.com/nevroje/Flex-panels" target="_blank">Flex css panels ES6</a></ul>
                     <br></br>
-                    <ul><a href="https://github.com/nevroje/2019-bmi-challenge" target="_blank">BMI Calculator in JS</a></ul>
-                    <br></br>
-                    <ul><a href="https://github.com/nevroje/ATM_Challenge" target="_blank">ATM-challenge in Ruby</a></ul>
+                    <ul><a href="https://github.com/nevroje/Firebase-Cloud-Backend" target="_blank">WIP Node cloud backend</a></ul>
                     <br></br>
                     <p>More to come..</p>
             </ul>
